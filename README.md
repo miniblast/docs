@@ -1,2 +1,0 @@
-# docs
-Miniblast documentation.
